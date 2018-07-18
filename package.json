@@ -5,6 +5,6 @@
  "license": "MIT",
  "repository": {
   "type": "git",
-  "url": "git://github.com/dadamssg/yarn-test.git"
+  "url": "git@github.com:dadamssg/yarn-test.git"
  }
 }
