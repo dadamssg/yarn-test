@@ -4,7 +4,7 @@
  "main": "index.js",
  "license": "MIT",
  "repository": {
-  "type": "git",
-  "url": "git@github.com:dadamssg/yarn-test.git"
+	  "type": "git",
+	  "url": "git+https://github.com/dadamssg/yarn-test.git"
  }
 }
