@@ -1,6 +1,10 @@
 {
-  "name": "yarn-test",
-  "version": "1.2.0",
-  "main": "index.js",
-  "license": "MIT"
+ "name": "yarn-test",
+ "version": "1.2.0",
+ "main": "index.js",
+ "license": "MIT",
+ "repository": {
+  "type": "git",
+  "url": "git://github.com/dadamssg/yarn-test.git"
+ }
 }
